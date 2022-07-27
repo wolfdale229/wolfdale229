@@ -1,1 +1,1 @@
-Hi,I'm Chika and I am an aspiring software developer, focusing on using Clojure and Clojurescript.
+Hi,I'm Chika and I am an aspiring software developer, focusing on using Clojure(script) and Pyhton(when angry).
